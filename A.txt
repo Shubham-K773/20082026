@@ -1,8 +1,5 @@
 learning git and applying devops..............................
 
 Shubham on b2 branch
-<<<<<<< HEAD
-applying chnages in master branch
-=======
 Applying chnages in A.txt file on branch b2
->>>>>>> 3e98971 (modiffied A.txt in branch b2)
+
